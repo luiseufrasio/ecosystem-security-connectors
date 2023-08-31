@@ -49,6 +49,8 @@
 
     <artifactId>openid-standalone</artifactId>
 
+    <name>openid-standalone</name>
+
     <licenses>
         <license>
             <name>CDDL + GPLv2 with classpath exception</name>
